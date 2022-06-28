@@ -1,1 +1,1 @@
-# Advanced-Shopping-Cart-With-React-and-TypeScript - v2
+# Advanced-Shopping-Cart-With-React-and-TypeScript - v3
